@@ -115,7 +115,7 @@ document.addEventListener('DOMContentLoaded', () => {
   let name = names[Math.floor(Math.random() * names.length)];
   let nameText = '';
   let nameIndex = 0;
-  let isNameDeleting = false;
+  let isNameDeleting = true;
   let nameCursorVisible = true;
 
   function typeWriterName() {
