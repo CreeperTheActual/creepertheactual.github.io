@@ -153,7 +153,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "never underestimate yourself",
     "contacting tricky tony",
     "i like music",
-    "i <3 cachyos",
+    "i <3 arch",
     "an official kralsei fan",
     "ralsei is my fluffy boi",
     "crimsoncauldron a cool guy",
