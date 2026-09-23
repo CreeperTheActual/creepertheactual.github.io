@@ -108,10 +108,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
   const names = [
-    "TaikoCreeper",
     "Creeper",
-    "Ralsei",
-    "ラルセイ"
+    "CreeperTheActual",
+    "CreeperGT"
   ];
   let name = names[Math.floor(Math.random() * names.length)];
   let nameText = '';
